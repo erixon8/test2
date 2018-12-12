@@ -1,2 +1,2 @@
-#Moj test
+Mojtest
 toto je len test
