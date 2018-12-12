@@ -20,5 +20,8 @@ robuim veci ako feature 1
 fds
 sfsdf
 sd
+
+hej toto treba zmenit
+
 gsdg
 sd
