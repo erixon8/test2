@@ -6,5 +6,6 @@
 		<p> Toto je moja stranka </p>
 		<p>Teraz som to upravil</p>
 		<p>Dalsia uprava na lepsie pochopenie commit bez -m</p>
+login funkcionalita
 	</body>
 </html>
