@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<p> Toto je moja stranka </p>
+		<p>Teraz som to upravil</p>
 	</body>
 </html>
